@@ -1,7 +1,6 @@
 # Vault-128-Software
 
-## *Link to our Discord server: https://discord.gg/9erRgQydsx 
-Link to our Guilded server: https://www.guilded.gg/i/k5aBKaDk*
+## *Link to our Discord server: https://discord.gg/9erRgQydsx Link to our Guilded server: https://www.guilded.gg/i/k5aBKaDk*
 
 ## *Use the Table of Contents below to quickly search for software. If what you want is not listed, you can request it on Discord.*
 
